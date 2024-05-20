@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/zhang/Downloads/CSCE_121_Spring_2024_by_Zhangrui_Weng/HW_1_grade_Calculator(100_Out_of_100)",
+      "program": "c:/Users/zhang/Downloads/CSCE_121_Spring_2024_by_Zhangrui_Weng/HW_1_grade_Calculator(100_Out_of_100)/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
